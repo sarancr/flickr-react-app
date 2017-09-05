@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import SearchBar from "../containers/SearchBar";
 import ImageList from "../containers/ImageList";
 

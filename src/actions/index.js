@@ -1,6 +1,7 @@
 import axios from 'axios';
 
 const API_ROOT_URL = "https://api.flickr.com/services/feeds/photos_public.gne?format=json&nojsoncallback=true&tags=";
+//const API_ROOT_URL = "/photos?tags=";
 
 const FETCH_IMAGE_DATA = 'FETCH_IMAGE_DATA';
 
